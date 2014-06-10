@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+  <vector>
+    <versionInfo version="3.0.20852"/>
+    <removeTriggerChange triggerName="SPM_SLABLINES_TRG"/>
+    <columnDataChange tablename="AD_COLUMN" columnname="AD_REFERENCE_ID" pkRow="B65A0177DA694485BEB40EB963EF19F7">
+      <oldValue><![CDATA[11]]></oldValue>
+      <newValue><![CDATA[22]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_COLUMN" columnname="FIELDLENGTH" pkRow="B65A0177DA694485BEB40EB963EF19F7">
+      <oldValue><![CDATA[2]]></oldValue>
+      <newValue><![CDATA[10]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_COLUMN" columnname="AD_CALLOUT_ID" pkRow="B65A0177DA694485BEB40EB963EF19F7">
+      <oldValue/>
+      <newValue><![CDATA[F4E759E65B914304B46D6F664C070859]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_MODULE" columnname="VERSION" pkRow="FBA5BC1D668D420AA5ACEC29DF74C7B3">
+      <oldValue><![CDATA[1.0.2]]></oldValue>
+      <newValue><![CDATA[1.0.3]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_TAB" columnname="ISACTIVE" pkRow="800222">
+      <oldValue><![CDATA[N]]></oldValue>
+      <newValue><![CDATA[Y]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_TAB" columnname="ISACTIVE" pkRow="800223">
+      <oldValue><![CDATA[N]]></oldValue>
+      <newValue><![CDATA[Y]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_FIELD" columnname="DISPLAYLOGIC" pkRow="1D1FECF20805454793651768430304AE">
+      <oldValue/>
+      <newValue><![CDATA[@NL_ISR@='N']]></newValue>
+    </columnDataChange>
+  </vector>
